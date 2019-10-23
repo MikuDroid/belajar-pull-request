@@ -12,3 +12,6 @@ Tambahkan nama dan link profil anda dibawah ini dengan cara:
 - [Muhammad Mugni Hadi](https://github.com/mugnimaestra)
 - [Dika Adhitama](https://github.com/kucinghitam13)
 - [Dhimas Ilya'sa Swandy](https://github.com/MikuDroid)
+- [Kartiko Pramudito](https://github.com/kartikopr)
+- [Daffa Daraz](https://github.com/daffadaraz)
+- [Syafri Wira Wicaksana](https://github.com/wirasyafri)
